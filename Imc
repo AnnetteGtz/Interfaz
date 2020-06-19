@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author annette
+ * @author Annette
  */
 public class IMC extends javax.swing.JFrame {
 
